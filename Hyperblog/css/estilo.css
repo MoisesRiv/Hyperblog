@@ -45,17 +45,15 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
 #footer
 {
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
-=======
+}
 #post
 {
     background: white;
     padding: 1em;
->>>>>>> 57d5a0e3278cfc8d7b3015b560f6aadecb0078e8
 }
