@@ -40,7 +40,7 @@ git pull origin master --allow-unrelated-histories //En caso de que se reuse a h
 gir remote set-url origin [Direccion de repositorio en git HTTPS o SSH] // Cuando ya tenemos creada una rama remota podemos cambiar la direccion o tipo de conexion con esta sentencia
 
 /Graficando ramas en el terminal/
-git log --all -graph --decorate --oneline
+git log --all --graph --decorate --oneline
 
 /Puedes guardar comandos de git con alias/
 alias [Como quieres tu llamar tu alias ej: arbolito] = “[Comando de git que quieres guardar en el alias]”
